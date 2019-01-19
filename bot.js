@@ -78,7 +78,7 @@ client.on('guildMemberAdd', member => {
 const YossiF = member.guild.channels.get("533730782993186827");//ايدي الشات
 if(!YossiF) return;
 if(YossiF) {
-YossiF.send(`**_Welcome To BubblesAvatar_**`);          
+YossiF.send(`_Welcome To BubblesAvatar_`);          
 }
 });
 
