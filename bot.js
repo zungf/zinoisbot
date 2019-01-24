@@ -75,7 +75,7 @@ client.on('ready', () => {
 
 
 client.on('guildMemberAdd', member => {
-const YossiF = member.guild.channels.get("533730782993186827");//ايدي الشات
+const YossiF = member.guild.channels.get("537969708545343508");//ايدي الشات
 if(!YossiF) return;
 if(YossiF) {
 YossiF.send(`_Welcome To BubblesAvatar_`);          
